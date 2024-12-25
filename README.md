@@ -12,7 +12,9 @@
 1. Clone or download the repository.
 2. Open `Maze-solver.html` in a web browser to get started.
 3. Customize the maze or input your own!
-
+   
+## Live Demo
+[Check out the live version here!](https://henryph1409.github.io/Mazesolve/)
 
 ## File Structure
 - **Audio/**: Contains sound assets.
